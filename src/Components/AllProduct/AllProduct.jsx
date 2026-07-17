@@ -4,6 +4,7 @@ import product from '@/app/navigation/hero.json'
 
 import Card from '../Card/Card'
 import { HiOutlineSearch } from 'react-icons/hi'
+import NotFound from '../NotFound/NotFound'
 
 const allProduct = product
 const AllProduct = () => {
@@ -83,7 +84,7 @@ const AllProduct = () => {
         </div>
       </div>
       {visibleProduct.length === 0 ? (
-        <p>no product search your product</p>
+        <NotFound/>
       ) : (
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4 lg:gap-6">
           {featureProduct.map((item, index) => {
