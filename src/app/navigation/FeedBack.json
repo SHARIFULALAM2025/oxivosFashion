@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "সাকিব আলম",
+    "initials": "https://i.ibb.co.com/k21ppQLH/agent-02.jpg",
+    "role": "Software Engineer",
+    "companyOrPlatform": "Google Singapore",
+    "description": "পাইথন ও মেশিন লার্নিং কোর্স করার ২ বছরের মধ্যে গুগলে জব পেয়েছেন।",
+    "badgeText": "বার্ষিক আয় : ৬০ লক্ষ+",
+    "initialsBgColor": "bg-[#155e2f] text-white"
+  },
+  {
+    "id": 2,
+    "name": "তানিয়া আক্তার",
+    "initials": "https://i.ibb.co.com/k21ppQLH/agent-02.jpg",
+    "role": "ফ্রিল্যান্স ডিজাইনার",
+    "companyOrPlatform": "Upwork Top Rated",
+    "description": "গ্রাফিক ডিজাইন কোর্স করে ঘরে বসেই মাসে ৮০,০০০+ টাকা আয় করছেন।",
+    "badgeText": "Top Rated Plus Freelancer",
+    "initialsBgColor": "bg-[#b46d05] text-white"
+  },
+  {
+    "id": 3,
+    "name": "তানিয়া আক্তার",
+    "initials": "https://i.ibb.co.com/k21ppQLH/agent-02.jpg",
+    "role": "ফ্রিল্যান্স ডিজাইনার",
+    "companyOrPlatform": "Upwork Top Rated",
+    "description": "গ্রাফিক ডিজাইন কোর্স করে ঘরে বসেই মাসে ৮০,০০০+ টাকা আয় করছেন।",
+    "badgeText": "Top Rated Plus Freelancer",
+    "initialsBgColor": "bg-[#b46d05] text-white"
+  },
+  {
+    "id": 4,
+    "name": "তানিয়া আক্তার",
+    "initials": "https://i.ibb.co.com/k21ppQLH/agent-02.jpg",
+    "role": "ফ্রিল্যান্স ডিজাইনার",
+    "companyOrPlatform": "Upwork Top Rated",
+    "description": "গ্রাফিক ডিজাইন কোর্স করে ঘরে বসেই মাসে ৮০,০০০+ টাকা আয় করছেন।",
+    "badgeText": "Top Rated Plus Freelancer",
+    "initialsBgColor": "bg-[#b46d05] text-white"
+  },
+  {
+    "id": 5,
+    "name": "তানিয়া আক্তার",
+    "initials": "https://i.ibb.co.com/k21ppQLH/agent-02.jpg",
+    "role": "ফ্রিল্যান্স ডিজাইনার",
+    "companyOrPlatform": "Upwork Top Rated",
+    "description": "গ্রাফিক ডিজাইন কোর্স করে ঘরে বসেই মাসে ৮০,০০০+ টাকা আয় করছেন।",
+    "badgeText": "Top Rated Plus Freelancer",
+    "initialsBgColor": "bg-[#b46d05] text-white"
+  },
+  {
+    "id": 6,
+    "name": "তানিয়া আক্তার",
+    "initials": "https://i.ibb.co.com/k21ppQLH/agent-02.jpg",
+    "role": "ফ্রিল্যান্স ডিজাইনার",
+    "companyOrPlatform": "Upwork Top Rated",
+    "description": "গ্রাফিক ডিজাইন কোর্স করে ঘরে বসেই মাসে ৮০,০০০+ টাকা আয় করছেন।",
+    "badgeText": "Top Rated Plus Freelancer",
+    "initialsBgColor": "bg-[#b46d05] text-white"
+  },
+  {
+    "id": 7,
+    "name": "তানিয়া আক্তার",
+    "initials": "https://i.ibb.co.com/k21ppQLH/agent-02.jpg",
+    "role": "ফ্রিল্যান্স ডিজাইনার",
+    "companyOrPlatform": "Upwork Top Rated",
+    "description": "গ্রাফিক ডিজাইন কোর্স করে ঘরে বসেই মাসে ৮০,০০০+ টাকা আয় করছেন।",
+    "badgeText": "Top Rated Plus Freelancer",
+    "initialsBgColor": "bg-[#b46d05] text-white"
+  },
+  {
+    "id": 8,
+    "name": "তানিয়া আক্তার",
+    "initials": "https://i.ibb.co.com/k21ppQLH/agent-02.jpg",
+    "role": "ফ্রিল্যান্স ডিজাইনার",
+    "companyOrPlatform": "Upwork Top Rated",
+    "description": "গ্রাফিক ডিজাইন কোর্স করে ঘরে বসেই মাসে ৮০,০০০+ টাকা আয় করছেন।",
+    "badgeText": "Top Rated Plus Freelancer",
+    "initialsBgColor": "bg-[#b46d05] text-white"
+  },
+  {
+    "id": 9,
+    "name": "তানিয়া আক্তার",
+    "initials": "https://i.ibb.co.com/k21ppQLH/agent-02.jpg",
+    "role": "ফ্রিল্যান্স ডিজাইনার",
+    "companyOrPlatform": "Upwork Top Rated",
+    "description": "গ্রাফিক ডিজাইন কোর্স করে ঘরে বসেই মাসে ৮০,০০০+ টাকা আয় করছেন।",
+    "badgeText": "Top Rated Plus Freelancer",
+    "initialsBgColor": "bg-[#b46d05] text-white"
+  }
+]

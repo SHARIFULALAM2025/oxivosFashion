@@ -1,0 +1,11 @@
+[
+    {
+        "id":1,
+        "path":"/product",
+        "Name":"Product"
+    },{
+        "id":2,
+        "Name":"Contact",
+        "path":"/contact"
+    }
+]
