@@ -38,7 +38,10 @@ const Card = ({ index, item, discount, oldPrice }) => {
           </button>
           <button
             type="button"
-            onClick={(e) => e.preventDefault()}
+            onClick={(e) => {
+              e.stopPropagation()
+              router.push(`/product/${item.id}`)
+            }}
             aria-label="Add to  Cart"
             className="flex items-center justify-center h-9 w-9 rounded-full bg-card text-foreground shadow-sm hover:bg-primary hover:text-background transition-colors"
           >

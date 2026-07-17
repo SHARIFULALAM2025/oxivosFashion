@@ -5,9 +5,14 @@ import Image from 'next/image'
 import { HiOutlineArrowsExpand } from 'react-icons/hi'
 import { IoIosArrowBack, IoIosArrowForward } from 'react-icons/io'
 import { FaStar } from 'react-icons/fa'
+import { useCart } from '../Context/CartContext'
 
 const allProduct = product
+
 const ProductDetails = ({ id }) => {
+  const [sizeError, setSizeError] = useState(false)
+  const [justAdd, setJustAdd] = useState(false)
+  const { addToCart } = useCart()
   const Product = allProduct
     .flatMap((item) => item.product || [])
     .map((item, index) => ({ ...item, orginalId: item.id, id: index + 1 }))
@@ -36,6 +41,25 @@ const ProductDetails = ({ id }) => {
   const oldPrice = price * 1.3
   const ratingValue = Math.round(parseFloat(rating))
   const images = image.length > 0 ? image : ['/oxivos.png']
+
+  const HandelAddToCart = () => {
+    if (sizes.length > 0 && !SelectedSize) {
+      setSizeError(true)
+      return
+    }
+    setSizeError(false)
+    addToCart({
+      id,
+      orginalId,
+      name,
+      price,
+      image: images[0],
+      color: SelectorColor,
+        size: SelectedSize,
+      quantity
+    })
+      setJustAdd(true)
+  }
   return (
     <div className="mx-auto max-w-6xl px-4 py-8 sm:py-10 grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-10">
       <div className="flex flex-col gap-3">
@@ -181,7 +205,11 @@ const ProductDetails = ({ id }) => {
               +
             </button>
           </div>
-          <button className="flex-1 h-11 rounded-md bg-foreground text-background text-sm font-medium hover:opacity-90 transition">
+          <button
+            disabled={justAdd}
+            onClick={HandelAddToCart}
+            className="flex-1 h-11 disabled:opacity-60 disabled:cursor-not-allowed rounded-md bg-foreground text-background text-sm font-medium hover:opacity-90 transition"
+          >
             Add To Cart
           </button>
         </div>

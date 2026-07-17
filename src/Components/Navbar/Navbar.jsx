@@ -6,9 +6,14 @@ import route from '@/app/navigation/route.json'
 import { LuLogIn } from 'react-icons/lu'
 import DarkMode from '../DarkMode/DarkMode'
 import Button from '../Button/Button'
+import { HiOutlineShoppingBag } from 'react-icons/hi'
+import { useCart } from '../Context/CartContext'
+
 const navRoute = route
 const Navbar = () => {
-  console.log(navRoute)
+  const { totalItem } = useCart()
+
+
   return (
     <nav className="flex  justify-between py-2 items-center bg-background">
       <Link href="/" className="">
@@ -36,6 +41,18 @@ const Navbar = () => {
       </div>
       <div className="flex justify-between items-center gap-2">
         <DarkMode />
+        <Link
+          href="/cart"
+          aria-label=" view cart"
+          className="relative flex items-center justify-center h-9 w-9 rounded-full hover:bg-card transition-colors text-foreground"
+        >
+          <HiOutlineShoppingBag className="text-lg" />
+          {totalItem > 0 && (
+            <span className="absolute -top-1 -right-1 flex items-center justify-center h-4 w-4 rounded-full bg-primary text-background text-[10px] font-semibold">
+              {totalItem}
+            </span>
+          )}
+        </Link>
         <Button
           className="flex items-center gap-1 text-xs bg-primary text-foreground px-3 py-1.5 rounded-md"
           href="/register"
