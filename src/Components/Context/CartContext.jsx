@@ -94,7 +94,14 @@ export function CartProvider({ children }) {
         localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
     }, [state, isHydrated])
     const addToCart = (product, option = {}) => {
-        dispatch({type:"ADD_ITEM",payload:{product,...option}})
+        dispatch({
+            type: "ADD_ITEM", payload: {
+                product,
+                size: option.size,
+                color: option.color,
+                quantity: option.quantity,
+            }
+        })
     }
     const removeFromCart = (lineId) => {
          dispatch({ type: 'REMOVE_ITEM', payload: { lineId } })

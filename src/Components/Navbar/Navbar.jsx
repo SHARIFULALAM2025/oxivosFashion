@@ -15,7 +15,7 @@ const Navbar = () => {
 
 
   return (
-    <nav className="flex  justify-between py-2 items-center bg-background">
+    <nav className="flex  justify-between border-b py-2 items-center bg-background">
       <Link href="/" className="">
         <div className="flex items-center">
           <Image
@@ -32,7 +32,7 @@ const Navbar = () => {
           </h2>
         </div>
       </Link>
-      <div className="space-x-2 text-xs">
+      <div className="space-x-2 font-bold text-xs">
         {navRoute.map((item, index) => (
           <Link key={index} className="text-foreground" href={item.path}>
             {item.Name}

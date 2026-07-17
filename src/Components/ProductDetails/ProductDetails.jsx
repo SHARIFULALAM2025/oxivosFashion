@@ -6,10 +6,13 @@ import { HiOutlineArrowsExpand } from 'react-icons/hi'
 import { IoIosArrowBack, IoIosArrowForward } from 'react-icons/io'
 import { FaStar } from 'react-icons/fa'
 import { useCart } from '../Context/CartContext'
+import Swal from 'sweetalert2'
+import { useRouter } from 'next/navigation'
 
 const allProduct = product
 
 const ProductDetails = ({ id }) => {
+    const router =useRouter()
   const [sizeError, setSizeError] = useState(false)
   const [justAdd, setJustAdd] = useState(false)
   const { addToCart } = useCart()
@@ -44,21 +47,30 @@ const ProductDetails = ({ id }) => {
 
   const HandelAddToCart = () => {
     if (sizes.length > 0 && !SelectedSize) {
-      setSizeError(true)
+        setSizeError(true)
+        Swal.fire({
+          title: 'please select size !',
+          icon: 'error',
+          draggable: true,
+        })
       return
     }
     setSizeError(false)
-    addToCart({
-      id,
-      orginalId,
-      name,
-      price,
-      image: images[0],
+    addToCart(singleProduct, {
+      size: SelectedSize,
       color: SelectorColor,
-        size: SelectedSize,
-      quantity
+      quantity,
     })
       setJustAdd(true)
+      Swal.fire({
+        title: 'product add !',
+        icon: 'success',
+        draggable: true,
+      })
+      router.push("/product")
+    setTimeout(() => {
+      setJustAdd(false)
+    }, 2000)
   }
   return (
     <div className="mx-auto max-w-6xl px-4 py-8 sm:py-10 grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-10">
@@ -177,6 +189,7 @@ const ProductDetails = ({ id }) => {
               </span>
             </span>
             <div className="grid grid-cols-4 sm:grid-cols-5 gap-2 max-w-md">
+              {sizeError && <p className="">please select size</p>}
               {sizes.map((s) => (
                 <button
                   onClick={() => setSelectedSize(s)}
@@ -207,7 +220,8 @@ const ProductDetails = ({ id }) => {
           </div>
           <button
             disabled={justAdd}
-            onClick={HandelAddToCart}
+                      onClick={HandelAddToCart}
+
             className="flex-1 h-11 disabled:opacity-60 disabled:cursor-not-allowed rounded-md bg-foreground text-background text-sm font-medium hover:opacity-90 transition"
           >
             Add To Cart
