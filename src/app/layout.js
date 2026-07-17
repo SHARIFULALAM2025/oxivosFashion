@@ -5,6 +5,7 @@ import Footer from "@/Components/Footer/Footer";
 import Loader from "@/Components/Loader/Loader";
 import { ThemeProvider } from "@/Components/provider/ThemeProvider";
 import Script from "next/script"
+import { CartProvider } from "@/Components/Context/CartContext";
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -27,16 +28,17 @@ export default function RootLayout({ children }) {
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <head className="">
-       
+
       </head>
       <body className="min-h-full flex flex-col">
-        <ThemeProvider>
+        <CartProvider><ThemeProvider>
           <Loader>
             <Navbar />
             <main className="flex-1"> {children}</main>
             <Footer />
           </Loader>
-        </ThemeProvider>
+        </ThemeProvider></CartProvider>
+
 
 
       </body>
