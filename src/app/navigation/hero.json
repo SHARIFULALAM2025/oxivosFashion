@@ -10,119 +10,13 @@
     "product": [
       {
         "id": 1,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
+        "name": "Luxury Wool Blend Long Coat",
         "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
-        "image": [
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
-          "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
-          "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
-          "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
-        ],
-        "colorImage": [
-          "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
-          "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
-        ]
-      },{
-        "id": 2,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
-        "image": [
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
-          "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
-          "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
-          "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
-        ],
-        "colorImage": [
-          "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
-          "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
-        ]
-      },{
-        "id": 3,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
-        "image": [
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
-          "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
-          "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
-          "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
-        ],
-        "colorImage": [
-          "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
-          "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
-        ]
-      },{
-        "id": 4,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
-        "image": [
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
-          "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
-          "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
-          "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
-        ],
-        "colorImage": [
-          "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
-          "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 2,
-
-    "image": "https://i.ibb.co.com/XZwfjv0X/hannah-morgan-yc-VFts5-Ma4s-unsplash.jpg",
-    "title": "winter 2026 collection",
-    "des": "Elegance never goes out of style",
-    "product": [
-      {
-        "id": 1,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": 5800,
+        "rating": "4.9",
+        "color": ["camel", "charcoal", "black"],
+        "sizes": ["M", "L", "XL", "XXL"],
+        "description": "Step out in style with our Luxury Wool Blend Long Coat. Designed for premium warmth and elegance, this coat features structured lapels, a double-breasted front button closure, and a premium satin inner lining that layers beautifully over any winter attire.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -141,13 +35,13 @@
       },
       {
         "id": 2,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "name": "Waterproof Puffer Jacket with Hood",
+        "category": "Jackets",
+        "price": 3490,
+        "rating": "4.7",
+        "color": ["navy-blue", "matte-black", "olive-green"],
+        "sizes": ["S", "M", "L", "XL"],
+        "description": "Defy the winter elements with our Waterproof Puffer Jacket. Built with a high-density windproof outer shell and synthetic down insulation, it features a fleece-lined detachable hood and zippered side pockets to keep your essentials safe and dry.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -166,13 +60,13 @@
       },
       {
         "id": 3,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
+        "name": "Oversized Cable-Knit Turtleneck Sweater",
+        "category": "Sweaters",
+        "price": 2250,
+        "rating": "4.6",
+        "color": ["cream-white", "burgundy", "mustard"],
         "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "description": "Embrace cozy aesthetics with this texture-rich Cable-Knit Turtleneck Sweater. Knitted using premium, itch-free blended yarn, its relaxed fit and dropped shoulders ensure all-day comfort while providing excellent thermal insulation.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -191,13 +85,13 @@
       },
       {
         "id": 4,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
+        "name": "Ultra-Warm Fleece Lined Thermals",
+        "category": "Thermals",
+        "price": 1450,
         "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "color": ["charcoal-grey", "black", "white"],
+        "sizes": ["M", "L", "XL"],
+        "description": "The perfect base layer for extreme cold weather. This thermal set features a lightweight, four-way stretch fabric with a brushed fleece interior that locks in body heat while wicking away moisture, making it ideal for indoor or outdoor wear.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -216,22 +110,129 @@
       }
     ]
   },
+ {
+   "id": 2,
+   "image": "https://i.ibb.co.com/XZwfjv0X/hannah-morgan-yc-VFts5-Ma4s-unsplash.jpg",
+   "title": "Winter 2026 Premium Collection",
+   "des": "Elevate your seasonal wardrobe with timeless elegance and modern comfort.",
+   "product": [
+     {
+       "id": 1,
+       "name": "Classic Wool Blend Overcoat",
+       "category": "Coats",
+       "price": 4500,
+       "rating": "4.8",
+       "color": ["black", "camel", "charcoal"],
+       "sizes": ["M", "L", "XL", "XXL"],
+       "description": "Stay warm and sophisticated with our Classic Wool Blend Overcoat. Crafted from premium insulated fabric, this coat features a structured silhouette, notched lapels, and a smooth inner lining perfect for layering over formal or casual outfits.",
+       "image": [
+         "https://i.ibb.co.com/rRcNPjrJ/faux1-1.jpg",
+         "https://i.ibb.co.com/2RrtsvJ/faux2-1.jpg",
+         "https://i.ibb.co.com/399T4ZTn/faux3-1.jpg",
+         "https://i.ibb.co.com/MkpZjjFj/faux4-1.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     },
+     {
+       "id": 2,
+       "name": "Slim-Fit Fleece Lined Denim",
+       "category": "Denim",
+       "price": 2850,
+       "rating": "4.6",
+       "color": ["dark-blue", "vintage-wash", "ash-black"],
+       "sizes": ["30", "32", "34", "36"],
+       "description": "Get the classic jeans look without freezing. These jeans come with a hidden, ultra-soft fleece lining that traps heat efficiently. Made from stretchable denim fabric to ensure effortless movement during cold outdoor commutes.",
+       "image": [
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
+         "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
+         "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
+         "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     },
+     {
+       "id": 3,
+       "name": "Cozy Knit Oversized Sweater",
+       "category": "Knitwear",
+       "price": 1990,
+       "rating": "4.5",
+       "color": ["beige", "mustard", "maroon"],
+       "sizes": ["S", "M", "L"],
+       "description": "Embrace chilly days with this effortlessly stylish oversized sweater. Knitted with breathable yet insulating premium yarn, its drop-shoulder design and ribbed cuffs add a touch of cozy aesthetics to your everyday winter look.",
+       "image": [
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
+         "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
+         "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
+         "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     },
+     {
+       "id": 4,
+       "name": "Thermal Cashmere Scarf & Beanie Set",
+       "category": "Accessories",
+       "price": 1250,
+       "rating": "4.9",
+       "color": ["grey", "navy-blue", "burgundy"],
+       "sizes": ["Free-Size"],
+       "description": "The ultimate winter accessory duo. This matching set includes a heavy-knit beanie and a long wrap-around scarf made from a premium cashmere-acrylic blend, offering itch-free comfort and excellent wind resistance.",
+       "image": [
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
+         "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
+         "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
+         "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     }
+   ]
+ },
   {
     "id": 3,
-
     "image": "https://i.ibb.co.com/0pfy3wZb/burgess-milner-OYYE4g-I5-ZQ-unsplash.jpg",
     "title": "winter 2026 collection",
     "des": "Comfort woven into every thread",
     "product": [
       {
         "id": 1,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "name": "Heavyweight Fleece Sweatpants with Cuff Hems",
+        "category": "Pants",
+        "price": 1850,
+        "rating": "4.6",
+        "color": ["heather-grey", "navy", "charcoal"],
+        "sizes": ["S", "M", "L", "XL"],
+        "description": "Experience ultimate relaxation with our Heavyweight Fleece Sweatpants. Engineered with a premium cotton-fleece blend, these sweatpants feature a flexible waistband, deep side pockets, and snug elastic cuffs designed to trap warmth during cold winter days.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -250,13 +251,13 @@
       },
       {
         "id": 2,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
+        "name": "Double-Breasted Woolen Trench Coat",
         "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": 5400,
+        "rating": "4.8",
+        "color": ["camel", "black", "olive"],
+        "sizes": ["M", "L", "XL"],
+        "description": "Make a bold seasonal statement with our Double-Breasted Woolen Trench Coat. Tailored for a structured fit, it boasts a sophisticated wide lapel, adjustable waist belt, and thermal inner insulation that effortlessly blends classic British style with modern functionality.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -275,13 +276,13 @@
       },
       {
         "id": 3,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
+        "name": "Cable-Knit Mock Neck Sweater",
+        "category": "Knitwear",
+        "price": 2450,
         "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "color": ["cream-white", "burgundy", "forest-green"],
+        "sizes": ["S", "M", "L", "XL"],
+        "description": "Add a texture-rich layer to your look with our Cable-Knit Mock Neck Sweater. Intricately woven with ultra-soft spun yarn, this mid-weight sweater offers a relaxed fit, drop-shoulder seams, and a cozy protective mock neck perfect for chilly evenings.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -300,13 +301,13 @@
       },
       {
         "id": 4,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "name": "Windproof Insulated Puffer Jacket",
+        "category": "Jackets",
+        "price": 4200,
+        "rating": "4.7",
+        "color": ["matte-black", "navy-blue", "silver"],
+        "sizes": ["M", "L", "XL", "XXL"],
+        "description": "Defy the harsh winter elements with our Windproof Insulated Puffer Jacket. Featuring a durable water-resistant matte outer shell and high-loft synthetic down fill, it comes equipped with zippered utility pockets and an adjustable storm hood.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -325,130 +326,129 @@
       }
     ]
   },
-  {
-    "id": 4,
-
-    "image": "https://i.ibb.co.com/v6QF4PkQ/korie-cull-Iz-IME1jwj-CY-unsplash.jpg",
-    "title": "winter 2026 collection",
-    "des": "Stay warm without the bulk",
-    "product": [
-      {
-        "id": 1,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
-        "image": [
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
-          "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
-          "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
-          "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
-        ],
-        "colorImage": [
-          "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
-          "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
-        "image": [
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
-          "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
-          "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
-          "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
-        ],
-        "colorImage": [
-          "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
-          "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
-        ]
-      },
-      {
-        "id": 3,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
-        "image": [
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
-          "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
-          "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
-          "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
-        ],
-        "colorImage": [
-          "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
-          "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
-        "image": [
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
-          "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
-          "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
-          "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
-        ],
-        "colorImage": [
-          "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
-          "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
-        ]
-      }
-    ]
-  },
+ {
+   "id": 4,
+   "image": "https://i.ibb.co.com/v6QF4PkQ/korie-cull-Iz-IME1jwj-CY-unsplash.jpg",
+   "title": "winter 2026 collection",
+   "des": "Stay warm without the bulk",
+   "product": [
+     {
+       "id": 1,
+       "name": "Ultra-Lightweight Packable Down Jacket",
+       "category": "Jackets",
+       "price": 3850,
+       "rating": "4.8",
+       "color": ["matte-black", "navy", "olive"],
+       "sizes": ["M", "L", "XL"],
+       "description": "Experience maximum warmth with minimal weight. Our Packable Down Jacket features a high-density nylon shell filled with premium synthetic down. It insulates perfectly against harsh winds and can be easily folded into a compact pouch, making it ideal for winter travels.",
+       "image": [
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
+         "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
+         "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
+         "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     },
+     {
+       "id": 2,
+       "name": "Slim-Fit Merino Wool Pullover",
+       "category": "Sweaters",
+       "price": 2490,
+       "rating": "4.6",
+       "color": ["charcoal-grey", "burgundy", "camel"],
+       "sizes": ["S", "M", "L", "XL"],
+       "description": "Crafted from 100% fine Merino wool, this pullover offers a sleek, non-bulky silhouette that fits comfortably under blazers or coats. It naturally regulates body temperature, resists odors, and provides an incredibly soft feel against the skin.",
+       "image": [
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
+         "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
+         "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
+         "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     },
+     {
+       "id": 3,
+       "name": "Advanced Tech Thermal Base Layer",
+       "category": "Thermals",
+       "price": 1250,
+       "rating": "4.5",
+       "color": ["black", "ash-white"],
+       "sizes": ["S", "M", "L"],
+       "description": "The ultimate foundation for your winter outfit. This thermal top uses smart heat-retention technology with a brushed interior microfiber layer. Its four-way stretch fabric ensures a second-skin fit without restricting movement.",
+       "image": [
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
+         "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
+         "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
+         "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     },
+     {
+       "id": 4,
+       "name": "Windproof Quilted Puffer Vest",
+       "category": "Vests",
+       "price": 1950,
+       "rating": "4.7",
+       "color": ["navy-blue", "dark-grey", "forest-green"],
+       "sizes": ["M", "L", "XL", "XXL"],
+       "description": "Keep your core warm while keeping your arms free. This quilted puffer vest provides excellent insulation with a streamlined layout. Featuring a full-zip front, stand-up collar, and zip-secure pockets, it is perfect for layering over hoodies or shirts.",
+       "image": [
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
+         "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
+         "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
+         "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     }
+   ]
+ },
   {
     "id": 5,
-    "image":"https://i.ibb.co.com/dwnZPjSk/erica-zhou-IHp-Ug-FDn7z-U-unsplash.jpg",
+    "image": "https://i.ibb.co.com/dwnZPjSk/erica-zhou-IHp-Ug-FDn7z-U-unsplash.jpg",
     "title": "winter 2026 collection",
     "des": "Simple lines, timeless elegance",
     "product": [
       {
         "id": 1,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
+        "name": "Minimalist Tailored Wool Coat",
         "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": 6200,
+        "rating": "4.9",
+        "color": ["oatmeal", "charcoal", "olive"],
+        "sizes": ["S", "M", "L", "XL"],
+        "description": "Embodying the essence of quiet luxury, this Minimalist Tailored Wool Coat features clean-cut lines, a concealed button placket, and a premium double-faced wool blend. Its streamlined structure provides elegant warmth without looking bulky.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -467,13 +467,13 @@
       },
       {
         "id": 2,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
+        "name": "Fine-Knit Cashmere Turtleneck",
+        "category": "Knitwear",
+        "price": 3150,
+        "rating": "4.7",
+        "color": ["cream", "taupe", "classic-black"],
         "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "description": "A foundational wardrobe staple for the modern minimalist. Woven from ultra-fine cashmere fibres, this lightweight turtleneck sweater offers unparalleled softness and a flattering, second-skin fit that is perfect for layering under blazers.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -492,13 +492,13 @@
       },
       {
         "id": 3,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "name": "Structured Herringbone Winter Blazer",
+        "category": "Blazers",
+        "price": 4500,
+        "rating": "4.6",
+        "color": ["grey-herringbone", "brown-tweed"],
+        "sizes": ["M", "L", "XL"],
+        "description": "Bring effortless sophistication to your winter office wear. This structured blazer features a subtle herringbone pattern, sharp padded shoulders, and a heavy wool-blend construction that keeps you professional and protected from the winter chill.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -517,13 +517,13 @@
       },
       {
         "id": 4,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "name": "Ribbed Chunky Long Cardigan",
+        "category": "Cardigans",
+        "price": 2800,
+        "rating": "4.8",
+        "color": ["beige", "espresso", "slate-blue"],
+        "sizes": ["S", "M", "L", "XL"],
+        "description": "Unwind in the cozy elegance of our Long-Line Ribbed Cardigan. Designed with an open-front layout and deep patch pockets, its premium heavy-gauge knit drapes beautifully down to the knee, combining casual lounge comfort with outdoor style.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -542,21 +542,129 @@
       }
     ]
   },
+ {
+   "id": 6,
+   "image": "https://i.ibb.co.com/QvD40s1j/slider-02.jpg",
+   "title": "winter 2026 collection",
+   "des": "Effortless style for every season",
+   "product": [
+     {
+       "id": 1,
+       "name": "Premium Heavyweight Fleece Hoodie",
+       "category": "Hoodies",
+       "price": 2450,
+       "rating": "4.8",
+       "color": ["black", "heather-grey", "olive"],
+       "sizes": ["S", "M", "L", "XL"],
+       "description": "An everyday essential designed for maximum comfort. This heavyweight fleece hoodie features a soft brushed interior, a double-lined hood with adjustable drawcords, and a spacious kangaroo pocket. Perfect for keeping it casual yet warm.",
+       "image": [
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
+         "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
+         "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
+         "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     },
+     {
+       "id": 2,
+       "name": "Classic Tapered Sweatpants with Elastic Hems",
+       "category": "Sweatpants",
+       "price": 1980,
+       "rating": "4.6",
+       "color": ["navy", "charcoal", "sand"],
+       "sizes": ["S", "M", "L", "XL"],
+       "description": "Crafted for effortless lounging or street styling, these tapered sweatpants come with a secure elastic waistband and gathered hems. The breathable cotton-blend knit fabric offers optimal flexibility and durability for daily wear.",
+       "image": [
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
+         "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
+         "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
+         "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     },
+     {
+       "id": 3,
+       "name": "Urban Corduroy Trucker Jacket",
+       "category": "Jackets",
+       "price": 3600,
+       "rating": "4.7",
+       "color": ["tan-brown", "forest-green", "black"],
+       "sizes": ["M", "L", "XL"],
+       "description": "Bring a vintage touch to your modern winter wardrobe. This corduroy trucker jacket features a button-front closure, classic chest flap pockets, and a warm inner lining that transitions seamlessly between seasonal shifts.",
+       "image": [
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
+         "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
+         "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
+         "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     },
+     {
+       "id": 4,
+       "name": "Relaxed-Fit Crewneck Knit Sweater",
+       "category": "Sweaters",
+       "price": 2850,
+       "rating": "4.5",
+       "color": ["burgundy", "cream", "slate-blue"],
+       "sizes": ["M", "L", "XL", "XXL"],
+       "description": "Stay cozy with this versatile knit sweater featuring a relaxed fit and a clean crewneck collar. Woven from an itch-free, premium cotton-acrylic blend, its textured knit adds fine detailing while keeping you comfortably insulated.",
+       "image": [
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
+         "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
+         "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
+         "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     }
+   ]
+ },
   {
-    "id": 6,
-    "image": "https://i.ibb.co.com/H9pp4x5/alexander-fae-GMGdht-Ye-ROY-unsplash.jpg",
+    "id": 7,
+    "image": "https://i.ibb.co.com/JFgpkfJ7/slider-01.jpg",
     "title": "winter 2026 collection",
-    "des": "Effortless style for every season",
+    "des": "The finishing touch to every outfit",
     "product": [
       {
         "id": 1,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "name": "Luxury Plaid Cashmere Scarf",
+        "category": "Scarves",
+        "price": 1850,
+        "rating": "4.9",
+        "color": ["classic-red-plaid", "beige-check", "grey-monochrome"],
+        "sizes": ["Free Size"],
+        "description": "Elevate your winter silhouette with this Luxury Plaid Cashmere Scarf. Crafted from ultra-soft, responsibly sourced cashmere blend, it features a timeless checkered pattern with fringed edges, providing cozy insulation and a sophisticated drape.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -575,13 +683,13 @@
       },
       {
         "id": 2,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "name": "Touchscreen Compatible Leather Gloves",
+        "category": "Gloves",
+        "price": 2200,
+        "rating": "4.7",
+        "color": ["tan-brown", "matte-black"],
+        "sizes": ["M", "L", "XL"],
+        "description": "Stay connected in the cold without freezing your hands. These premium sheepskin leather gloves are engineered with advanced touchscreen-compatible fingertips and are fully lined with soft, insulating fleece for maximum warmth and dexterity.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -600,13 +708,13 @@
       },
       {
         "id": 3,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "name": "Ribbed Knit Merino Wool Beanie",
+        "category": "Beanies",
+        "price": 950,
+        "rating": "4.6",
+        "color": ["charcoal", "mustard", "cream-white"],
+        "sizes": ["Free Size"],
+        "description": "A classic cold-weather staple. This beanie is tightly knitted from premium merino wool yarn, featuring an adjustable cuff to customize your fit. Its breathable fabric traps natural body heat while keeping moisture out.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -625,13 +733,13 @@
       },
       {
         "id": 4,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "name": "Water-Resistant Faux Fur Ankle Boots",
+        "category": "Boots",
+        "price": 4800,
+        "rating": "4.8",
+        "color": ["dark-brown", "oxford-black", "taupe"],
+        "sizes": ["39", "40", "41", "42", "43"],
+        "description": "Tackle frosty terrains with confidence. These rugged yet stylish ankle boots offer a water-resistant faux-suede exterior, a heavily cushioned memory foam insole, and a thick faux-fur interior lining that guarantees all-day comfort and stability.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -651,28 +759,20 @@
     ]
   },
   {
-    "id": 7,
-
-    "image": "https://i.ibb.co.com/JFgpkfJ7/slider-01.jpg",
-    "title": "winter 2026 collection",
-    "des": "The finishing touch to every outfit"
-  },
-  {
     "id": 8,
-
     "image": "https://i.ibb.co.com/9kZwJwVQ/slider-03.jpg",
     "title": "winter 2026 collection",
     "des": "Layer up in style",
     "product": [
       {
         "id": 1,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "name": "Classic Wool-Blend Double-Breasted Overcoat",
+        "category": "Overcoats",
+        "price": 5400,
+        "rating": "4.9",
+        "color": ["camel", "charcoal", "black"],
+        "sizes": ["M", "L", "XL", "XXL"],
+        "description": "The ultimate layer for a sharp, sophisticated look. This double-breasted overcoat is crafted from a premium heavy wool-blend, featuring a notched lapel, structured shoulders, and deep welt pockets. Designed to fit comfortably over sweaters and hoodies.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -691,13 +791,13 @@
       },
       {
         "id": 2,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "name": "Sherpa-Lined Distressed Denim Jacket",
+        "category": "Denim Jackets",
+        "price": 3850,
+        "rating": "4.7",
+        "color": ["vintage-wash", "dark-indigo", "washed-black"],
+        "sizes": ["S", "M", "L", "XL"],
+        "description": "A rugged classic remade for the cold. This durable denim jacket features a plush, insulating sherpa lining through the body and collar, while the sleeves are quilted for easy layering. Finished with classic chest button pockets and subtle fading.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -716,13 +816,13 @@
       },
       {
         "id": 3,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "name": "Lightweight Water-Resistant Puffer Vest",
+        "category": "Puffer Vests",
+        "price": 2600,
+        "rating": "4.6",
+        "color": ["olive-drab", "matte-black", "navy"],
+        "sizes": ["S", "M", "L", "XL"],
+        "description": "Versatile and functional, this sleeveless puffer vest provides targeted warmth without the bulk. Made with a water-resistant shell and high-loft synthetic insulation, it works perfectly as a top layer over long-sleeved tees or as a mid-layer under heavy coats.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -741,13 +841,13 @@
       },
       {
         "id": 4,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
+        "name": "Cable-Knit Buttoned Chunky Cardigan",
+        "category": "Cardigans",
+        "price": 3200,
         "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "color": ["oatmeal", "forest-green", "burgundy"],
+        "sizes": ["M", "L", "XL", "XXL"],
+        "description": "Bring cozy textures into your rotation. This chunky cardigan is loosely woven with a traditional cable-knit pattern and features oversized tortoiseshell buttons. The relaxed fit allows you to easily layer button-down shirts or basic tees underneath.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -766,131 +866,129 @@
       }
     ]
   },
-  {
-    "id": 9,
-
-    "image": "https://i.ibb.co.com/QvD40s1j/slider-02.jpg",
-    "title": "winter 2026 collection",
-    "des": "Casual comfort meets warmth",
-    "product": [
-      {
-        "id": 1,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
-        "image": [
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
-          "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
-          "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
-          "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
-        ],
-        "colorImage": [
-          "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
-          "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
-        "image": [
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
-          "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
-          "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
-          "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
-        ],
-        "colorImage": [
-          "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
-          "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
-        ]
-      },
-      {
-        "id": 3,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
-        "image": [
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
-          "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
-          "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
-          "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
-        ],
-        "colorImage": [
-          "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
-          "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
-        "image": [
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
-          "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
-          "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
-          "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
-        ],
-        "colorImage": [
-          "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
-          "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
-          "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
-          "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
-          "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
-        ]
-      }
-    ]
-  },
+ {
+   "id": 9,
+   "image": "https://i.ibb.co.com/QvD40s1j/slider-02.jpg",
+   "title": "winter 2026 collection",
+   "des": "Casual comfort meets warmth",
+   "product": [
+     {
+       "id": 1,
+       "name": "Basic Colored Sweatpants With Elastic Hems",
+       "category": "Sweatpants",
+       "price": 2150,
+       "rating": "4.5",
+       "color": ["white", "navy", "blue"],
+       "sizes": ["S", "M", "L", "XL"],
+       "description": "An essential staple for everyday relaxation. These basic colored sweatpants feature a super-soft brushed interior fleece, a flexible elastic waistband with adjustable drawcords, and gathered elastic hems that lock in body heat while offering a clean, athletic silhouette.",
+       "image": [
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
+         "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
+         "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
+         "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     },
+     {
+       "id": 2,
+       "name": "Oversized Heavyweight Fleece Hoodie",
+       "category": "Fleece-Hoodies",
+       "price": 2650,
+       "rating": "4.8",
+       "color": ["charcoal", "oatmeal", "olive"],
+       "sizes": ["S", "M", "L", "XL"],
+       "description": "Experience premium warmth in a relaxed cut. This heavyweight hoodie is knitted from thick cotton-poly fleece, featuring a double-layered hood, dropped shoulders for a modern casual drop, and a spacious kangaroo pocket to keep your hands cozy on chilly days.",
+       "image": [
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
+         "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
+         "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
+         "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     },
+     {
+       "id": 3,
+       "name": "Retro Full-Zip Track Jacket",
+       "category": "Track-Jackets",
+       "price": 2980,
+       "rating": "4.6",
+       "color": ["burgundy", "black", "forest-green"],
+       "sizes": ["M", "L", "XL"],
+       "description": "A perfect blend of sporty heritage and seasonal comfort. This full-zip track jacket is made from structured, interlock knit fabric with a mock neck collar for extra throat protection. Ideal for layering over t-shirts during active weekend outings.",
+       "image": [
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
+         "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
+         "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
+         "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     },
+     {
+       "id": 4,
+       "name": "Premium Waffle-Knit Joggers",
+       "category": "Knit-Joggers",
+       "price": 2250,
+       "rating": "4.7",
+       "color": ["heather-grey", "sand", "dark-navy"],
+       "sizes": ["S", "M", "L", "XL"],
+       "description": "Elevate your loungewear with rich fabric texture. These thermal joggers feature a breathable yet insulating waffle knit construction. With a tailored fit through the leg, sleek side-seam pockets, and flat-knit cuffs, they redefine working or resting from home.",
+       "image": [
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
+         "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
+         "https://i.ibb.co.com/tPnkF2Vs/pants3.jpg",
+         "https://i.ibb.co.com/nNtdMh3P/pants4.jpg"
+       ],
+       "colorImage": [
+         "https://i.ibb.co.com/gcLmFc2/pants-red.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/kVzk8tY3/pants-orange.jpg",
+         "https://i.ibb.co.com/rR5VFT2Q/pants-blue.jpg",
+         "https://i.ibb.co.com/BKr6KchZ/pants-green.jpg",
+         "https://i.ibb.co.com/rfG9dWSN/pants-pink.jpg",
+         "https://i.ibb.co.com/3xdc8ns/pants1.jpg"
+       ]
+     }
+   ]
+ },
   {
     "id": 10,
-
     "image": "https://i.ibb.co.com/JFgpkfJ7/slider-01.jpg",
     "title": "winter 2026 collection",
     "des": "Sharp tailoring for a confident look",
     "product": [
       {
         "id": 1,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "name": "Slim-Fit Textured Wool Blazer",
+        "category": "Blazers",
+        "price": 4500,
+        "rating": "4.8",
+        "color": ["charcoal-grey", "navy-blue", "burgundy"],
+        "sizes": ["M", "L", "XL", "XXL"],
+        "description": "Command the room with this impeccably cut slim-fit blazer. Woven from a premium textured wool-blend, it offers a structure that holds its shape while providing excellent winter warmth. Features classic notched lapels, a two-button closure, and smooth internal lining for easy layering.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -909,13 +1007,13 @@
       },
       {
         "id": 2,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
+        "name": "Tailored Double-Breasted Trench Coat",
         "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "price": 5800,
+        "rating": "4.9",
+        "color": ["classic-tan", "oxford-black", "olive"],
+        "sizes": ["M", "L", "XL"],
+        "description": "A timeless outerwear silhouette engineered for the modern professional. This tailored trench coat features a double-breasted front, sharp shoulder epaulets, and an adjustable waist belt to define your frame. Crafted from a heavy-duty, wind-resistant cotton twill blend.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -934,13 +1032,13 @@
       },
       {
         "id": 3,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "name": "Smart Tailored Flannel Trousers",
+        "category": "Trousers",
+        "price": 2800,
+        "rating": "4.6",
+        "color": ["light-grey", "dark-navy", "espresso"],
+        "sizes": ["30", "32", "34", "36", "38"],
+        "description": "Ditch the casual sweatpants for a sharper lower half. These formal trousers are cut from a soft, insulating wool-flannel blend. Featuring a pressed center crease, a functional hook-and-bar closure, and subtle stretch for maximum comfort throughout corporate hours.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",
@@ -959,13 +1057,13 @@
       },
       {
         "id": 4,
-        "name": "Basic Colored Sweatpants With Elastic Hems",
-        "category": "Coats",
-        "price": 2342,
-        "rating": "4.5",
-        "color": ["white", "navy", "blue"],
-        "sizes": ["S", "M", "L"],
-        "description": "Quisque varius diam vel metus mattis, id aliquam diam rhoncus. Proin vitae magna in dui finibus malesuada et at nulla. Morbi elit ex, viverra vitae ante vel, blandit feugiat ligula. Fusce fermentum iaculis nibh, at sodales leo maximus a. Nullam ultricies sodales nunc, in pellentesque lorem mattis quis. Cras imperdiet est in nunc tristique lacinia. Nullam aliquam mauris eu accumsan tincidunt. Suspendisse velit ex, aliquet vel ornare vel, dignissim a tortor.Morbi ut sapien vitae odio accumsan gravida. Morbi vitae erat auctor, eleifend nunc a, lobortis neque. Praesent aliquam dignissim viverra. Maecenas lacus odio, feugiat eu nunc sit amet, maximus sagittis dolor. Vivamus nisi sapien, elementum sit amet eros sit amet, ultricies cursus ipsum. Sed consequat luctus ligula. Curabitur laoreet rhoncus blandit. Aenean vel diam ut arcu pharetra dignissim ut sed leo. Vivamus faucibus, ipsum in vestibulum vulputate, lorem orci convallis quam, sit amet consequat nulla felis pharetra lacus. Duis semper erat mauris, sed egestas purus commodo vel.",
+        "name": "Premium Two-Piece Houndstooth Suit",
+        "category": "Suits",
+        "price": 8500,
+        "rating": "4.7",
+        "color": ["monochrome-houndstooth", "navy-check"],
+        "sizes": ["M", "L", "XL"],
+        "description": "For high-stakes winter occasions that require a bold, confident statement. This premium two-piece suit features a sharp houndstooth pattern woven into thick, structured fabric. Complete with a fully lined, structured jacket and matching slim trousers.",
         "image": [
           "https://i.ibb.co.com/3xdc8ns/pants1.jpg",
           "https://i.ibb.co.com/3YzSHc4p/pants2.jpg",

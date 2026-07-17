@@ -77,17 +77,17 @@ const AllProduct = () => {
             <option value="low-high" className="">
               Price:Low To High
             </option>
-            <option value="default" className="">
+            <option value="high-low" className="">
               Price:High To Low
             </option>
           </select>
         </div>
       </div>
       {visibleProduct.length === 0 ? (
-        <NotFound/>
+        <NotFound />
       ) : (
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4 lg:gap-6">
-          {featureProduct.map((item, index) => {
+          {visibleProduct.map((item, index) => {
             const oldPrice = item.price * (1.3).toFixed(2)
             const discount = Math.round(
               (oldPrice - item.price / oldPrice) / 100

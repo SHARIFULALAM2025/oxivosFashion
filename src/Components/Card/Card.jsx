@@ -60,7 +60,7 @@ const Card = ({ index, item, discount, oldPrice }) => {
       <div className="flex items-center gap-1.5 mb-1.5">
         <FaStar className="text-accent text-sx" />
         <span className="text-sx text-muted ">
-          {index === 0 ? '2 Review' : '1 Review'}
+          {item.rating}
         </span>
       </div>
       <h1 className="text-sm text-foreground  mb-1.5 line-clamp-1">

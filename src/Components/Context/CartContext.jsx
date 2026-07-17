@@ -1,6 +1,12 @@
 'use client'
 
-import { createContext, useContext, useEffect, useReducer, useState } from 'react'
+import {
+  createContext,
+  useContext,
+  useEffect,
+  useReducer,
+  useState,
+} from 'react'
 
 const CartContext = createContext(null)
 const makeLineId = (id, size, color) =>
@@ -86,51 +92,55 @@ export function CartProvider({ children }) {
     } catch (err) {
       console.error('failed to cart', err)
     } finally {
-        setIsHydrated(true)
+      setIsHydrated(true)
     }
   }, [])
-    useEffect(() => {
-        if (!isHydrated) return
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
-    }, [state, isHydrated])
-    const addToCart = (product, option = {}) => {
-        dispatch({
-            type: "ADD_ITEM", payload: {
-                product,
-                size: option.size,
-                color: option.color,
-                quantity: option.quantity,
-            }
-        })
-    }
-    const removeFromCart = (lineId) => {
-         dispatch({ type: 'REMOVE_ITEM', payload: { lineId } })
-    }
-    const updateQuantity = (lineId,quantity) => {
-         dispatch({ type: 'UPDATE_QUANTITY', payload: { lineId, quantity } })
-    }
-    const clearCart = () => {
-        dispatch({type:'CLEAR_CART'})
-    }
-    const totalItem=state.items.reduce((sum,i)=>sum+i.quantity,0)
-    const totalPrice = state.items.reduce((sum, i) => sum + i.price * i.quantity, 0)
-    const value = {
-      items: state.items,
-      totalPrice,
-      totalItem,
-      clearCart,
-      updateQuantity,
-      removeFromCart,
-        addToCart,
-      isHydrated
-    }
+  useEffect(() => {
+    if (!isHydrated) return
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+  }, [state, isHydrated])
+  const addToCart = (product, option = {}) => {
+    dispatch({
+      type: 'ADD_ITEM',
+      payload: {
+        product,
+        size: option.size,
+        color: option.color,
+        quantity: option.quantity,
+      },
+    })
+  }
+  const removeFromCart = (lineId) => {
+    dispatch({ type: 'REMOVE_ITEM', payload: { lineId } })
+  }
+  const updateQuantity = (lineId, quantity) => {
+    dispatch({ type: 'UPDATE_QUANTITY', payload: { lineId, quantity } })
+  }
+  const clearCart = () => {
+    dispatch({ type: 'CLEAR_CART' })
+  }
+  const totalItem = state.items.reduce((sum, i) => sum + i.quantity, 0)
+  const totalPrice = state.items.reduce(
+    (sum, i) => sum + i.price * i.quantity,
+    0
+  )
+  const value = {
+    items: state.items,
+    totalPrice,
+    totalItem,
+    clearCart,
+    updateQuantity,
+    removeFromCart,
+    addToCart,
+    isHydrated,
+  }
 
-    return <CartContext.Provider value={value}>{ children}</CartContext.Provider>
+  return <CartContext.Provider value={value}>{children}</CartContext.Provider>
 }
-export  function useCart() {
-    const context = useContext(CartContext)
-    if (!context) {
-        throw new Error('use cart must use cart provider')
-    }
-    return context
+export function useCart() {
+  const context = useContext(CartContext)
+  if (!context) {
+    throw new Error('use cart must use cart provider')
+  }
+  return context
 }
