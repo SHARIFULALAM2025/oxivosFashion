@@ -5,7 +5,7 @@ import React from 'react'
 import { FaStar } from 'react-icons/fa'
 import { HiOutlineEye } from 'react-icons/hi'
 import { HiOutlineShoppingBag } from 'react-icons/hi'
-import { HiOutlineHeart } from 'react-icons/hi'
+//import { HiOutlineHeart } from 'react-icons/hi'
 
 const Card = ({ index, item, discount, oldPrice }) => {
     console.log(item);
@@ -47,14 +47,14 @@ const Card = ({ index, item, discount, oldPrice }) => {
           >
             <HiOutlineShoppingBag className="text-base" />
           </button>
-          <button
+          {/* <button
             type="button"
             onClick={(e) => e.preventDefault()}
             aria-label="Add to  wishlist"
             className="flex items-center justify-center h-9 w-9 rounded-full bg-card text-foreground shadow-sm hover:bg-primary hover:text-background transition-colors"
           >
             <HiOutlineHeart className="text-base" />
-          </button>
+          </button> */}
         </div>
       </div>
       <div className="flex items-center gap-1.5 mb-1.5">
