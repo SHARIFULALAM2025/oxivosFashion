@@ -4,11 +4,12 @@ import { useCart } from '../Context/CartContext'
 
 import CartItem from './CartItem'
 import CartSummary from './CartSummary'
+import Loader from '../Loader/Loader'
 
 const CartProduct = () => {
   const { items, isHydrated } = useCart()
   if (!isHydrated) {
-    return <p className="">Loading</p>
+    return <Loader/>
   }
   if (items.length === 0) {
     return <p className="">cart is empty</p>
