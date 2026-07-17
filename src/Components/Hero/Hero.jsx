@@ -47,17 +47,17 @@ const Hero = () => {
           <div className="absolute inset-0 bg-gradient-r from-black/40 via-black/10 to-transparent">
             <div className="relative  z-10 h-full flex items-center px-6  sm:px-12 lg:px-20">
               <div className="max-w-xl">
-                <p className="text-xs sm:text-sm font-bold uppercase mb-6 text-black tracking-[0.2em]">
+                <p className="text-xs sm:text-sm font-bold uppercase mb-6 text-foreground tracking-[0.2em]">
                   {slide.title}
                 </p>
-                <h2 className="text-4xl sm:text-5xl lg:text-6xl leading-tight mb-6 text-black font-bold">
+                <h2 className="text-4xl sm:text-5xl lg:text-6xl leading-tight mb-6 text-foreground font-bold">
                   {slide.des}
                 </h2>
                 <Link
                   href="/product"
-                  className={`inline-flex items-center gap-2 text-black text-sm font-semibold tracking-wide group transition-all duration-700 delay-300 ${index === current ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}
+                  className={`inline-flex rounded-lg shadow-md items-center gap-2 text-background bg-primary sm:px-6 sm:py-3 px-5 py-2.5 text-sm font-semibold tracking-wide group transition-all duration-700 delay-300 ${index === current ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}
                 >
-                  <span className="border-b border-black pb-0.5">
+                  <span className="  pb-0.5">
                     Product Collection
                   </span>
                   <HiArrowRight className="transition-transform duration-300 group-hover:translate-x-1"></HiArrowRight>

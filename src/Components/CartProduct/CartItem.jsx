@@ -18,7 +18,7 @@ const CartItem = ({ item }) => {
       cancelButtonCOLOR: '#d33',
       confirmButtonText: 'yes,remove it!',
       Background: 'var(--background)',
-      color: 'var(--foreground)',
+      color: 'var(--primary)',
       denyButtonText: `Keept  it`,
     }).then((result) => {
       if (result.isConfirmed)

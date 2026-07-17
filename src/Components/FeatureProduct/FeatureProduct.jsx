@@ -30,10 +30,8 @@ const FeatureProduct = () => {
             Best feature Products
           </h1>
           <p className=" text-muted text-sm leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.<br></br>{' '}
-            Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-            maecenas accumsan lacus vel facilisis.
+            Our brand new arrivals are coming soon with the trendiest and most
+            exclusive designs in fashion. Get ready to elevate your style!
           </p>
         </div>
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4 lg:gap-6">
