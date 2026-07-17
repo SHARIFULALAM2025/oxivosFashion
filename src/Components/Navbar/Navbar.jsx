@@ -55,7 +55,7 @@ const Navbar = () => {
         </Link>
         <Button
           className="flex items-center gap-1 text-xs bg-primary text-foreground px-3 py-1.5 rounded-md"
-          href="#"
+          href="/register"
           iconPosition="right"
           icon={<LuLogIn className="text-base" />}
         >
