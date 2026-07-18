@@ -192,7 +192,7 @@ Light/dark mode is powered by CSS custom properties (`--background`, `--foregrou
 ## 📬 Contact
 
 **Oxivos Web Development Agency**
-🌐 [https://oxivos-fashion-inky.vercel.app/](https://oxivos-fashion-inky.vercel.app/) · ✉️ hello@oxivos.com · 📞 01688399676
+🌐 [https://oxivos-fashion-inky.vercel.app/](https://oxivos-fashion-inky.vercel.app/) · ✉️oxivosfashion@gmail.com · 📞 +8801829197321 (whats App)
 
 ---
 
